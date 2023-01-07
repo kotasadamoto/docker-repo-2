@@ -1,2 +1,3 @@
 # docker-repo
-編集
+## リモート：kotasadamoto/docker-repo-2
+## ローカル：C:\Users\sdmtk\OneDrive\デスクトップ\work
